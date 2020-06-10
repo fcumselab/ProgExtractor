@@ -8,9 +8,6 @@ import java.util.regex.Pattern;
 import fcu.selab.progextractor.data.FeedBack;
 
 import fcu.selab.progextractor.utils.ExceptionUtil;
-import org.codehaus.jackson.JsonGenerationException;
-import org.codehaus.jackson.map.JsonMappingException;
-import org.codehaus.jackson.map.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
